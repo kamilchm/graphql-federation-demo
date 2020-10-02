@@ -1,0 +1,7 @@
+{
+  "name": "graphql-federation-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "pnpm m run start"
+  }
+}

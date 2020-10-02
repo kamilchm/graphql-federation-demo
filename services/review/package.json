@@ -1,0 +1,12 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/federation": "^0.20.4",
+    "apollo-server": "^2.18.1",
+    "graphql": "^15.3.0"
+  }
+}
